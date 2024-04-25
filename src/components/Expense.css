@@ -1,0 +1,11 @@
+body{
+  background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Source Sans Pro", "Arial", sans-serif;
+}
+.container{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
